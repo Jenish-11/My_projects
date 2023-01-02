@@ -1,0 +1,40 @@
+
+.modal {display:table;}
+.body {display:table-cell; vertical-align:middle; text-align:center;}
+
+
+
+.name{
+    font-size: 16px;
+    font-weight: 400;
+}
+.rating{
+    font-size: 15px;
+    background-color: green;
+    color: aliceblue;
+    width: max-content;
+    padding: 0% 2%;
+    border-radius: 3px;
+}
+.rate{
+    font-size: 18px;
+    font-weight: 500;
+}
+.discount{
+    color: green;
+    font-size: 14px;
+}
+.offers{
+    color: green;
+    font-size: 14px;
+    font-weight: 600;
+}
+.body_size{
+    max-width: 100%;
+}
+.img{
+    height: 294px;
+}
+.im{
+    height: 400px;
+}
